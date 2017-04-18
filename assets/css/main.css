@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+  background-color:#760e32;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.imagenes, .info, .texto {
+  margin-left: 100px;
+}
+
+.menu {
+  background-color: #265E49;
+  padding: 20px;
+}
+
+    a {
+      color: white;
+      padding: 5px;
+    }
+
+ .imagenes {
+   margin: 20px;
+ }
+
+    img {
+      display: inline-block;
+      border: 3px solid gray;
+    }
+
+    span {
+      position: relative;
+      top: -225px;
+      right: 45px;
+      color: white;
+      font-size: 40px;
+      font-weight: bold;
+    }
+
+.seccion {
+  background-color: #265E49;
+  width: 30%;
+  padding: 5px;
+  display: inline-block;
+}
+
+    p {
+      display:inline-block;
+      width: 45%;
+    }
